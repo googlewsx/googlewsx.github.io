@@ -1,1 +1,5 @@
-Screen name: Fensen E-mail: w3211766572@gmail.com Age: I won't tell you [an ideal teenager] Specialty: no specialty hobbies: music, games, brushing machines, etc ...
+- Screen name: Fensen
+- E-mail: w3211766572@gmail.com
+- Age: I won't tell you [an ideal teenager]
+- Specialty: no specialty
+- hobbies: music, games, brushing machines, etc ...
