@@ -1,0 +1,3 @@
+<div class='comment'><h2 style="color: #ff0019ff">管理员</h2><h4 style="color: #ff0000;">请文明发言！后台将记录IP地址等位置信息！</h4><h4 style="color: #ff9900;">后台已开启人工审核！</h4><p>IP地址: 仙境</p><p>在 宇宙大爆炸之前 发布</p></div>
+
+<div class='comment'><h2>芬森</h2><h4>测试</h4><p>IP地址: 江苏省南京市 电信</p><p>在 2024年05月27日 12:03:48 发布</p></div>
